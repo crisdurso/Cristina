@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"Untitled\"\nauthor: \"Cristina\"\ndate: \"21 de outubro de 2016\"\noutput: html_document\n---\n\nname: \"little-book-of-RStudio-websites\"\noutput:\n  html_document:\n    theme: flatly # specifies the theme\nnavbar:\n  left:\n    - text: \"Home\"\n      href: index.html\n    - text: \"Create a Project\"\n      href: project.html\n    - text: \"Set Build Options\"\n      href: build.html\n    - text: \"Create a _site.yml\"\n      href: create_yml.html\n    - text: \"Tables and Plots\"\n      href: tables_plots.html\n    - text: \"Include Images\"\n      href: images.html\n    - text: \"Embed a webpage\"\n      href: embed.html\n    - text: \"Themes\"\n      href: theme.html\n    - text: \"Publishing your site\"\n      href: publishing.html\noutput_dir: \".\" # if publishing on Github pages\n",
+    "created" : 1477069043478.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3924788909",
+    "id" : "63C984C1",
+    "lastKnownWriteTime" : 1477069106,
+    "last_content_update" : 1477069106898,
+    "path" : "~/Cristina/_site.yml",
+    "project_path" : "_site.yml",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "yaml"
+}

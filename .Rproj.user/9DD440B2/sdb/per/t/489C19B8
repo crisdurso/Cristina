@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"index\"\nauthor: \"Cristina\"\ndate: \"21 de outubro de 2016\"\noutput: html_document\n---\n\n```{r setup, include=FALSE}\nknitr::opts_chunk$set(echo = TRUE)\n```\n\n1. Create R markdown file and save as index.Rmd\n2. Buidl >configure Build Toos> Website\n3. nojekyll text file\n4. copy site yml for simple webisite\n",
+    "created" : 1477069239560.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3758731978",
+    "id" : "489C19B8",
+    "lastKnownWriteTime" : 1477069587,
+    "last_content_update" : 1477069587538,
+    "path" : "~/Cristina/index.rmd",
+    "project_path" : "index.rmd",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

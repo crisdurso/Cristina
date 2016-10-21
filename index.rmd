@@ -1,0 +1,15 @@
+---
+title: "index"
+author: "Cristina"
+date: "21 de outubro de 2016"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+1. Create R markdown file and save as index.Rmd
+2. Buidl >configure Build Toos> Website
+3. nojekyll text file
+4. copy site yml for simple webisite

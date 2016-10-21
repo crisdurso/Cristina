@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"Untitled\"\nauthor: \"Cristina\"\ndate: \"21 de outubro de 2016\"\noutput: html_document\n---\n\n```{r setup, include=FALSE}\nknitr::opts_chunk$set(echo = TRUE)\n```\n\n## R Markdown\n\n1. Create a markdown file and save as index.Rmd\n2. Build > Configure Build tools>website\n3. .nojelyll text file\n4. Copy ",
+    "created" : 1477067445065.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1106996585",
+    "id" : "EBB210F2",
+    "lastKnownWriteTime" : 1477069587,
+    "last_content_update" : 1477069587586,
+    "path" : "~/Cristina/.nojekyll",
+    "project_path" : ".nojekyll",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}

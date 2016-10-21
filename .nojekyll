@@ -1,0 +1,17 @@
+---
+title: "Untitled"
+author: "Cristina"
+date: "21 de outubro de 2016"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+1. Create a markdown file and save as index.Rmd
+2. Build > Configure Build tools>website
+3. .nojelyll text file
+4. Copy 
